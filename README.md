@@ -29,7 +29,7 @@ Este projeto tem como objetivo prático o desenvolvimento COBOL Online em ambien
 
 ---
 
-## 🎨 Tela do Sistema (BMS)
+## Tela do Sistema (BMS)
 
 ![Menu](documentacao/Tela%20Menu.png)
 
